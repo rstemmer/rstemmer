@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi 👋
+
+<p>
+<!-- GitHub Stats -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rstemmer&show_icons=true&include_all_commits=true&count_private=true&theme=dark" />
+
+<!-- Most Used Languages -->
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rstemmer&show_icons=true&layout=compact&theme=dark&langs_count=6"/>
+</p>
 
 <!--
 **rstemmer/rstemmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
